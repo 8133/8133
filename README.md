@@ -1,16 +1,32 @@
-## Hi there 👋
+<h1 align="center">hey i am scorp / russhty</h1>
 
-<!--
-**8133/8133** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">Python dev</h3>
 
-Here are some ideas to get you started:
+- 🔭 working on random projects
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<h3 align="left">contact me on: russhty (discord)</h3>
+<p align="left">
+</p>
+
+archived= patched
+
+<h3 align="left">Languages and Tools:</h3>
+<p align="left"> 
+  <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> 
+  </a> 
+  <a href="https://www.linux.org/" target="_blank" rel="noreferrer"> 
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/linux/linux-original.svg" alt="linux" width="40" height="40"/> 
+  </a> 
+  <a href="https://ubuntu.com/" target="_blank" rel="noreferrer"> 
+    <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/> 
+  </a> 
+  <a href="https://httptoolkit.tech/" target="_blank" rel="noreferrer"> 
+    <img src="https://httptoolkit.tech/static/logo.svg" alt="httptoolkit" width="40" height="40"/> 
+  </a> 
+</p>
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8133&show_icons=true&locale=en" alt="8133" /></p>
+
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=8133&label=Profile%20views&color=0e75b6&style=flat" alt="8133" /> </p>

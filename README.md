@@ -23,7 +23,7 @@ archived= patched
     <img src="https://assets.ubuntu.com/v1/29985a98-ubuntu-logo32.png" alt="ubuntu" width="40" height="40"/> 
   </a> 
   <a href="https://httptoolkit.tech/" target="_blank" rel="noreferrer"> 
-    <img src="https://httptoolkit.tech/static/logo.svg" alt="httptoolkit" width="40" height="40"/> 
+    <img src="https://avatars.githubusercontent.com/u/39777515?s=48&v=4" alt="httptoolkit" width="40" height="40"/> 
   </a> 
 </p>
 

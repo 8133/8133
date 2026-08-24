@@ -2,14 +2,14 @@
 
 <h3 align="center">Python dev</h3>
 
-- 🔭 working on random projects
+- 🔭 working on random projects all the time
 
 
 <h3 align="left">contact me on: russhty (discord)</h3>
 <p align="left">
 </p>
 
-archived= patched
+archived = patched
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
@@ -24,7 +24,27 @@ archived= patched
   </a> 
   <a href="https://httptoolkit.tech/" target="_blank" rel="noreferrer"> 
     <img src="https://avatars.githubusercontent.com/u/39777515?s=48&v=4" alt="httptoolkit" width="40" height="40"/> 
-  </a> 
+  </a>
+
+  <a href="https://openai.com/codex/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/openai" alt="codex" width="40" height="40"/>
+  </a>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+    <img src="https://cdn.simpleicons.org/claude" alt="claude" width="40" height="40"/>
+  </a>
+
+  <a href="https://www.sqlite.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sqlite/sqlite-original.svg" alt="sqlite" width="40" height="40"/>
+  </a>
+  <a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" alt="mysql" width="40" height="40"/>
+  </a>
+  <a href="https://www.mongodb.com/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original.svg" alt="mongodb" width="40" height="40"/>
+  </a>
+  <a href="https://www.postgresql.org/" target="_blank" rel="noreferrer">
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="postgresql" width="40" height="40"/>
+  </a>
 </p>
 
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=8133&show_icons=true&locale=en" alt="8133" /></p>

@@ -2,9 +2,27 @@
 
 <h3 align="center">Python dev</h3>
 
-- 🔭 working on random projects all the time
+- 🔭 working on:
+- retrogram.it: a revival of the version 6.x.x of Instagram (2015 era) protocol, fully patched and with backend rewritten
+  <a href="https://retrogram.it">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fretrogram.it&up_message=online&down_message=offline&label=status" alt="RetroGram Status"/>
+  </a>
+- googleplaystore.it: a revival of the version 4.0.25 of the Google Play Store (2013 era, after Android Market), fully patched and with backend rewritten
+  <a href="https://googleplaystore.it">
+    <img src="https://img.shields.io/website?url=https%3A%2F%2Fgoogleplaystore.it&up_message=online&down_message=offline&label=status" alt="Google Play Store Status"/>
+  </a>
 
-<h3 align="left">contact me on: russhty (discord)</h3>
+<h3 align="left">Contact me:</h3>
+
+<p align="left">
+  <a href="https://discord.gg/androidafterlife" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Discord-russhty-5865F2?logo=discord&logoColor=white" alt="Discord"/>
+  </a>
+
+  <a href="https://www.reddit.com/user/rustycraftita/" target="_blank" rel="noreferrer">
+    <img src="https://img.shields.io/badge/Reddit-rustycraftita-FF4500?logo=reddit&logoColor=white" alt="Reddit"/>
+  </a>
+</p>
 
 archived = patched
 
@@ -24,10 +42,6 @@ archived = patched
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ubuntu/ubuntu-original.svg" alt="Ubuntu" width="40" height="40"/>
   </a>
 
-  <a href="https://httptoolkit.tech/" target="_blank">
-    <img src="https://avatars.githubusercontent.com/u/39777515?s=80&v=4" alt="HTTP Toolkit" width="40" height="40"/>
-  </a>
-
   <a href="https://openai.com/codex/" target="_blank" rel="noreferrer">
     <img src="https://avatars.githubusercontent.com/u/14957082?s=80&v=4"
          alt="Codex"
@@ -35,8 +49,11 @@ archived = patched
          height="40"/>
   </a>
 
-  <a href="https://claude.ai/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/claude.svg" alt="Claude" width="40" height="40"/>
+  <a href="https://claude.ai/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/76263028?s=80&v=4"
+         alt="Claude"
+         width="40"
+         height="40"/>
   </a>
 
   <a href="https://www.sqlite.org/" target="_blank">

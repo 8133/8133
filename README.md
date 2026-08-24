@@ -28,8 +28,11 @@ archived = patched
     <img src="https://avatars.githubusercontent.com/u/39777515?s=80&v=4" alt="HTTP Toolkit" width="40" height="40"/>
   </a>
 
-  <a href="https://openai.com/codex/" target="_blank">
-    <img src="https://raw.githubusercontent.com/simple-icons/simple-icons/develop/icons/openai.svg" alt="Codex" width="40" height="40"/>
+  <a href="https://openai.com/codex/" target="_blank" rel="noreferrer">
+    <img src="https://avatars.githubusercontent.com/u/14957082?s=80&v=4"
+         alt="Codex"
+         width="40"
+         height="40"/>
   </a>
 
   <a href="https://claude.ai/" target="_blank">
@@ -52,10 +55,6 @@ archived = patched
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/postgresql/postgresql-original.svg" alt="PostgreSQL" width="40" height="40"/>
   </a>
 
-</p>
-
-<p align="left">
-  <img src="https://komarev.com/ghpvc/?username=8133&label=Profile%20views&color=0e75b6&style=flat" alt="8133" />
 </p>
 
 <p align="left">

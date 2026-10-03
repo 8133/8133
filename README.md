@@ -15,6 +15,9 @@
     <a href="https://retroclash.it">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fretroclash.it&up_message=online&down_message=offline&label=status" alt="RetroClash Status"/>
     </a>
+    <a href="https://t.me/RetroSupercell">
+      <img src="https://img.shields.io/badge/chat-Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram"/>
+    </a>
   </li>
 
   <li>
@@ -24,6 +27,9 @@
     <a href="https://retrogram.it">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fretrogram.it&up_message=online&down_message=offline&label=status" alt="RetroGram Status"/>
     </a>
+    <a href="https://discord.gg/uGt4Tk8RWt">
+      <img src="https://img.shields.io/badge/chat-Telegram-26A5E4?logo=telegram&logoColor=purple" alt="Discord"/>
+    </a>
   </li>
 
   <li>
@@ -32,6 +38,9 @@
     <br>
     <a href="https://googleplaystore.it">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fgoogleplaystore.it&up_message=online&down_message=offline&label=status" alt="Google Play Store Status"/>
+    </a>
+    <a href="https://discord.gg/cmrGeBQ5AH">
+      <img src="https://img.shields.io/badge/chat-Telegram-26A5E4?logo=telegram&logoColor=purple" alt="Discord"/>
     </a>
   </li>
 </ul>

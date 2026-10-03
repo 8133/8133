@@ -18,6 +18,13 @@
     <a href="https://t.me/RetroSupercell">
       <img src="https://img.shields.io/badge/chat-Telegram-26A5E4?logo=telegram&logoColor=white" alt="Telegram"/>
     </a>
+    <details>
+      <summary>📸 See screenshots</summary>
+      <br>
+      <img src="assets/retroclash/screenshot1.png" width="250" alt="RetroClash Screenshot 1"/>
+      <img src="assets/retroclash/screenshot2.png" width="250" alt="RetroClash Screenshot 2"/>
+      <img src="assets/retroclash/screenshot3.png" width="250" alt="RetroClash Screenshot 3"/>
+    </details>
   </li>
 
   <li>

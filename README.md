@@ -18,7 +18,7 @@
   </li>
 
   <li>
-    <img src="https://raw.githubusercontent.com/8133/8133/main/assets/assets/IMG_2983.png" width="20" height="20" alt="Instagram" />
+    <img src="https://raw.githubusercontent.com/8133/8133/main/assets/IMG_2983.png" width="20" height="20" alt="Instagram" />
     <a href="https://retrogram.it"><b>retrogram.it</b></a> — a revival of the Instagram 6.x.x (2015 era) protocol, fully patched with the backend rewritten
     <br>
     <a href="https://retrogram.it">

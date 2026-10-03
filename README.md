@@ -28,7 +28,7 @@
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fretrogram.it&up_message=online&down_message=offline&label=status" alt="RetroGram Status"/>
     </a>
     <a href="https://discord.gg/uGt4Tk8RWt">
-      <img src="https://img.shields.io/badge/chat-Telegram-26A5E4?logo=discord&logoColor=white" alt="Discord"/>
+      <img src="https://img.shields.io/badge/chat-Discord-26A5E4?logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </li>
 
@@ -40,7 +40,7 @@
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fgoogleplaystore.it&up_message=online&down_message=offline&label=status" alt="Google Play Store Status"/>
     </a>
     <a href="https://discord.gg/cmrGeBQ5AH">
-      <img src="https://img.shields.io/badge/chat-Telegram-26A5E4?logo=discord&logoColor=white" alt="Discord"/>
+      <img src="https://img.shields.io/badge/chat-Discord-26A5E4?logo=discord&logoColor=white" alt="Discord"/>
     </a>
   </li>
 </ul>

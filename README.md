@@ -2,7 +2,7 @@
 
 <h3 align="center">Python dev</h3>
 
-<h3 🛰️ Currently working on: </h3>
+<h3> 🛰️ Currently working on: </h3>
 
 <ul>
   <li>

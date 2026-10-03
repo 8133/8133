@@ -2,19 +2,7 @@
 
 <h3 align="center">Python dev</h3>
 
-<h3 🛰️ Currently working on:</h3>
-- https://retroclash.it: a revival of the version 6.x.x of Instagram (2015 era) protocol, fully patched and with backend rewritten
-  <a href="https://retrogram.it">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fretrogram.it&up_message=online&down_message=offline&label=status" alt="RetroGram Status"/>
-  </a>
-- https://retrogram.it: a revival of the version 6.x.x of Instagram (2015 era) protocol, fully patched and with backend rewritten
-  <a href="https://retrogram.it">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fretrogram.it&up_message=online&down_message=offline&label=status" alt="RetroGram Status"/>
-  </a>
-- https://googleplaystore.it: a revival of the version 4.0.25 of the Google Play Store (2013 era, after Android Market), fully patched and with backend rewritten
-  <a href="https://googleplaystore.it">
-    <img src="https://img.shields.io/website?url=https%3A%2F%2Fgoogleplaystore.it&up_message=online&down_message=offline&label=status" alt="Google Play Store Status"/>
-  </a>
+<h3 🛰️ Currently working on: </h3>
 
 <ul>
   <li>
@@ -26,6 +14,25 @@
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fretroclash.it&up_message=online&down_message=offline&label=status" alt="RetroClash Status"/>
     </a>
   </li>
+
+  <li>
+    <img src="https://raw.githubusercontent.com/8133/8133/main/assets/instagram.png" width="20" height="20" alt="Instagram" />
+    <a href="https://retrogram.it"><b>retrogram.it</b></a> — a revival of the Instagram 6.x.x (2015 era) protocol, fully patched with the backend rewritten
+    <br>
+    <a href="https://retrogram.it">
+      <img src="https://img.shields.io/website?url=https%3A%2F%2Fretrogram.it&up_message=online&down_message=offline&label=status" alt="RetroGram Status"/>
+    </a>
+  </li>
+
+  <li>
+    <img src="https://raw.githubusercontent.com/8133/8133/main/assets/google-play.png" width="20" height="20" alt="Google Play Store" />
+    <a href="https://googleplaystore.it"><b>googleplaystore.it</b></a> — a revival of Google Play Store 4.0.25 (2013 era, after Android Market), fully patched with the backend rewritten
+    <br>
+    <a href="https://googleplaystore.it">
+      <img src="https://img.shields.io/website?url=https%3A%2F%2Fgoogleplaystore.it&up_message=online&down_message=offline&label=status" alt="Google Play Store Status"/>
+    </a>
+  </li>
+</ul>
 
 <h3 align="left">Contact me:</h3>
 

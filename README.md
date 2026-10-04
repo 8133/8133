@@ -26,7 +26,7 @@
       <img src="assets/retroclash/screenshot3.png" width="250" alt="3"/>
     </details>
   </li>
-
+  <br>
   <li>
     <img src="https://raw.githubusercontent.com/8133/8133/main/assets/IMG_2983.png" width="20" height="20" alt="Instagram" />
     <a href="https://retrogram.it"><b>retrogram.it</b></a>
@@ -46,7 +46,7 @@
       <img src="assets/retrogram/screenshot3.png" height="400" alt="3"/>
     </details>
   </li>
-
+  <br>
   <li>
     <img src="https://raw.githubusercontent.com/8133/8133/main/assets/google-play.png" width="20" height="20" alt="Google Play Store" />
     <a href="https://googleplaystore.it"><b>googleplaystore.it</b></a>

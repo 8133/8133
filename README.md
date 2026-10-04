@@ -21,9 +21,9 @@
     <details>
       <summary>📸 See screenshots</summary>
       <br>
-      <img src="assets/retroclash/screenshot1.png" width="250" alt="RetroClash Screenshot 1"/>
-      <img src="assets/retroclash/screenshot2.png" width="250" alt="RetroClash Screenshot 2"/>
-      <img src="assets/retroclash/screenshot3.png" width="250" alt="RetroClash Screenshot 3"/>
+      <img src="assets/retroclash/screenshot.png" width="250" alt="1"/>
+      <img src="assets/retroclash/screenshot2.png" width="250" alt="2"/>
+      <img src="assets/retroclash/screenshot3.png" width="250" alt="3"/>
     </details>
   </li>
 
@@ -37,6 +37,13 @@
     <a href="https://discord.gg/uGt4Tk8RWt">
       <img src="https://img.shields.io/badge/chat-Discord-26A5E4?logo=discord&logoColor=white" alt="Discord"/>
     </a>
+    <details>
+      <summary>📸 See screenshots</summary>
+      <br>
+      <img src="assets/retrogram/screenshot1.png" width="250" alt="1"/>
+      <img src="assets/retrogram/screenshot2.png" width="250" alt="2"/>
+      <img src="assets/retrogram/screenshot3.png" width="250" alt="3"/>
+    </details>
   </li>
 
   <li>
@@ -49,6 +56,13 @@
     <a href="https://discord.gg/cmrGeBQ5AH">
       <img src="https://img.shields.io/badge/chat-Discord-26A5E4?logo=discord&logoColor=white" alt="Discord"/>
     </a>
+    <details>
+      <summary>📸 See screenshots</summary>
+      <br>
+      <img src="assets/googleplay/screenshot1.png" width="250" alt="1"/>
+      <img src="assets/googleplay/screenshot2.png" width="250" alt="2"/>
+      <img src="assets/googleplay/screenshot3.png" width="250" alt="3"/>
+    </details>
   </li>
 </ul>
 

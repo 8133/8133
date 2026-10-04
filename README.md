@@ -59,9 +59,9 @@
     <details>
       <summary>📸 See screenshots</summary>
       <br>
-      <img src="assets/googleplay/screenshot1.png" width="250" alt="1"/>
-      <img src="assets/googleplay/screenshot2.png" width="250" alt="2"/>
-      <img src="assets/googleplay/screenshot3.png" width="250" alt="3"/>
+      <img src="assets/googleplay/screenshot1.png" height="400" alt="1"/>
+      <img src="assets/googleplay/screenshot2.png" height="400" alt="2"/>
+      <img src="assets/googleplay/screenshot3.png" height="400" alt="3"/>
     </details>
   </li>
 </ul>

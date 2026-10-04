@@ -45,18 +45,6 @@
       <img src="assets/retrogram/screenshot2.png" height="400" alt="2"/>
       <img src="assets/retrogram/screenshot3.png" height="400" alt="3"/>
     </details>
-    <details>
-      <summary>📸 See screenshots</summary>
-      <br>
-    
-      <p align="center">
-        <img src="assets/retroclash/screenshot.png" height="400" alt="1"/>
-        &nbsp;
-        <img src="assets/retroclash/screenshot2.png" height="400" alt="2"/>
-        &nbsp;
-        <img src="assets/retroclash/screenshot3.png" height="400" alt="3"/>
-      </p>
-    </details>
   </li>
   <br>
   <li>

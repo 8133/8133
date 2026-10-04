@@ -10,7 +10,7 @@
   <li>
     <img src="https://raw.githubusercontent.com/8133/8133/main/assets/clash-of-clans.PNG" width="20" height="20" alt="Clash of Clans"/>
     <a href="https://retroclash.it"><b>retroclash.it</b></a>
-    — a revival of an old Clash of Clans client, fully patched with the backend rewritten
+    — a Clash of Clans v1.70 private server, full protocol was rewritten and every message/command id implemented, making the online game fully functional in 2026
     <br>
     <a href="https://retroclash.it">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fretroclash.it&up_message=online&down_message=offline&label=status" alt="RetroClash Status"/>
@@ -29,7 +29,8 @@
 
   <li>
     <img src="https://raw.githubusercontent.com/8133/8133/main/assets/IMG_2983.png" width="20" height="20" alt="Instagram" />
-    <a href="https://retrogram.it"><b>retrogram.it</b></a> — a revival of the Instagram 6.x.x (2015 era) protocol, fully patched with the backend rewritten
+    <a href="https://retrogram.it"><b>retrogram.it</b></a>
+    — same as coc, revival of the Instagram 6.20.4 (2015 era) protocol, fully patched with the backend rewritten in python lol
     <br>
     <a href="https://retrogram.it">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fretrogram.it&up_message=online&down_message=offline&label=status" alt="RetroGram Status"/>
@@ -48,7 +49,8 @@
 
   <li>
     <img src="https://raw.githubusercontent.com/8133/8133/main/assets/google-play.png" width="20" height="20" alt="Google Play Store" />
-    <a href="https://googleplaystore.it"><b>googleplaystore.it</b></a> — a revival of Google Play Store 4.0.25 (2013 era, after Android Market), fully patched with the backend rewritten
+    <a href="https://googleplaystore.it"><b>googleplaystore.it</b></a>
+    — yet another revival, this time of the (g)old Google Play Store 4.0.25 (2013 era, right after Android Market), fully patched with the backend rewritten in python
     <br>
     <a href="https://googleplaystore.it">
       <img src="https://img.shields.io/website?url=https%3A%2F%2Fgoogleplaystore.it&up_message=online&down_message=offline&label=status" alt="Google Play Store Status"/>

@@ -40,9 +40,9 @@
     <details>
       <summary>📸 See screenshots</summary>
       <br>
-      <img src="assets/retrogram/screenshot1.png" width="250" alt="1"/>
-      <img src="assets/retrogram/screenshot2.png" width="250" alt="2"/>
-      <img src="assets/retrogram/screenshot3.png" width="250" alt="3"/>
+      <img src="assets/retrogram/screenshot1.png" height="400" alt="1"/>
+      <img src="assets/retrogram/screenshot2.png" height="400" alt="2"/>
+      <img src="assets/retrogram/screenshot3.png" height="400" alt="3"/>
     </details>
   </li>
 
